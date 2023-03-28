@@ -1,5 +1,5 @@
 - 👋 Hi, I'm @gitCaballero.
-- 👀 I'm interested in participating in software development projects in C# and Java languages.
+- 👀 I'm interested in participating in .Net software development .
 - 🌱 I am currently learning to create web applications using .Net.
 - 💞️ I am looking to collaborate on collaborating on projects to build Web applications or APIs.
 - 📫 You can contact me through my email caballero.david2011@gmail.com
